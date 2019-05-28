@@ -6,7 +6,7 @@
 
 
 
-**The purpose of this repository is to provide the source code for the CREAK descriptor for academics who wish to perform research on the topic. The original article can be found [![here](https://pdfs.semanticscholar.org/c450/ffbc3b6844556d98a17e4ca5ade15c3f6a11.pdf)]**
+**The purpose of this repository is to provide the source code for the CREAK descriptor for academics who wish to perform research on the topic. The original article can be found [here](https://pdfs.semanticscholar.org/c450/ffbc3b6844556d98a17e4ca5ade15c3f6a11.pdf)**
 - The code is admittidy very crude, and was not designed with general use or sharing in mind.
 - Any contribution or improvements are welcome!
 
