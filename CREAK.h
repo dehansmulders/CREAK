@@ -531,7 +531,7 @@ void computeCREAKDescriptors(InputArray _image, vector<KeyPoint>& keypoints, Out
 	}
 }
 
-
+//computeCREAK( Mat input_image, vector<KeyPoint>& keypoints, Mat output_descriptors )
 void computeCREAK(InputArray _image, vector<KeyPoint>& keypoints, OutputArray _descriptors)
 {
 	mux.lock();
