@@ -1,4 +1,4 @@
-# CREAK feature descriptor library
+# CREAK Feature Descriptor Library
 
 > Based on the works of Chen *et al.* from the CREAK: Color-based Retina Keypoint Descriptor article
 
@@ -13,6 +13,8 @@
 **Dependancies:**
 - OpenCV library 3.4.6 (4.1.0 should work)
 
+**CREAK Article:**
+- https://pdfs.semanticscholar.org/c450/ffbc3b6844556d98a17e4ca5ade15c3f6a11.pdf
 
 **Disclaimer:**
 - The code posted above is based on the original article by Chen *et al.* and in no way do I claim intellectual property on the CREAK algorithm.
